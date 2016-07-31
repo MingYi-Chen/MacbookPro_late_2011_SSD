@@ -1,5 +1,4 @@
 # 安装SSD
----
 
  1. 安装前准备
  	* [git push](#git push)
@@ -17,7 +16,7 @@
 
 <a name="安装软件清单"></a>
 ## 安装软件清单
---
+
 
 <a name="备份文件"></a>
 ### 备份文件
@@ -88,7 +87,7 @@
 
 <a name="brew清单"></a>
 ### brew清单 
----
+-
 1. brew list > brew.txt (brew清单)
 	* cloc  (Count Lines of Code)的安装和使用
 	* optipng
@@ -101,7 +100,7 @@
 
 <a name="其他清单"></a>
 ### 其他清单
----
+-
 1. [Tomcat](https://wolfpaulus.com/journal/mac/tomcat8/) 主要流程如下：
 	* [下载jdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 	* export JAVA_HOME=$(/usr/libexec/java_home)
@@ -112,14 +111,14 @@
 
 <a name="购买清单"></a>
 ### 购买清单
----
+-
 * [Samsung/三星 MZ-750250B/CN SSD 250G固态硬盘笔记本台式非240G](http://e22a.com/h.ZmaIud?cv=AAHOBPbc&sm=049d39)
 * [Apple苹果MacBook Pro笔记本专用光驱位硬盘托架 全铝镂空 佳翼H5](http://e22a.com/h.ZmasxT?cv=AAHOBHbZ&sm=65d523)
 * [Nimitz尼米兹第四代苹果macbook专用USB外置吸入式光驱盒（银色）](http://e22a.com/h.ZmatnA?cv=AAHOBGsL&sm=6fdd02)
 
 <a name="拆装ssd"></a>
 ## 拆装ssd
----
+
 * <http://bbs.feng.com/read-htm-tid-5187724.html>
 * [MacBook pro 13寸2011年换SSD](http://m.blog.csdn.net/article/details?id=50610694)
 * [Macbook Pro拆机光驱更换固态硬盘实战](http://www.osxtoy.com/?p=1182)
@@ -128,7 +127,7 @@
 
 <a name="安装系统"></a>
 ## 安装系统
----
+
 * [技术手札：如何全新安装 Mac OS X El Capitan](http://www.jianshu.com/p/fa45988bb270)
 * <http://bbs.feng.com/forum.php?mod=viewthread&tid=10036487>
 * [Mac制作U盘系统(OS X El Capitan)教程](http://www.cnblogs.com/ChinaKingKong/p/5582259.html)
@@ -136,12 +135,11 @@
 
 <a name="安装软件"></a>
 ## 安装软件
----
+
 * 将以上介绍的APP各自安装
 
 <a name="Git安装"></a>
 ### Git安装
----
 
 * [Gitlab 与 Git Windows 客户端一起使用的入门流程](http://www.cnblogs.com/hamhog/p/3824934.html)
 * [两把key](http://www.cnblogs.com/fanyong/p/3962455.html)
@@ -153,7 +151,6 @@
 
 <a name="心得"></a>
 ## 心得
----
 换完之后如同脱胎换骨一番，开机/关机/软件执行 速度也变快！
 
 System/Starup Disk 切换回原来的旧系统，只能说～回不去了！
