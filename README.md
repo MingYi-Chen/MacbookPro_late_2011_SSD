@@ -83,7 +83,9 @@
 * VPN
 	* junos pulse
 
-* 也可看看[2015年度盘点](http://sspai.com/topic/best-apps-2015/)有哪些不错的app
+* 也可看看有哪些不错的app?
+	* [2015年度盘点](http://sspai.com/topic/best-apps-2015/)
+	* [15款你可能不知道的精致Mac应用](http://www.cocoachina.com/cms/wap.php?action=article&id=17170)
 
 <a name="brew清单"></a>
 ### brew清单 
@@ -94,6 +96,7 @@
 	* jpegoptim
 	* tree
 	* jmeter
+	* wget	
 
 2. [使用brew安装软件](http://www.cnblogs.com/TankXiao/p/3247113.html)
 
