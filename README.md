@@ -89,7 +89,7 @@
 
 <a name="brew清单"></a>
 ### brew清单 
--
+
 1. brew list > brew.txt (brew清单)
 	* cloc  (Count Lines of Code)的安装和使用
 	* optipng
@@ -103,7 +103,7 @@
 
 <a name="其他清单"></a>
 ### 其他清单
--
+
 1. [Tomcat](https://wolfpaulus.com/journal/mac/tomcat8/) 主要流程如下：
 	* [下载jdk](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 	* export JAVA_HOME=$(/usr/libexec/java_home)
@@ -114,10 +114,13 @@
 
 <a name="购买清单"></a>
 ### 购买清单
--
+
 * [Samsung/三星 MZ-750250B/CN SSD 250G固态硬盘笔记本台式非240G](http://e22a.com/h.ZmaIud?cv=AAHOBPbc&sm=049d39)
 * [Apple苹果MacBook Pro笔记本专用光驱位硬盘托架 全铝镂空 佳翼H5](http://e22a.com/h.ZmasxT?cv=AAHOBHbZ&sm=65d523)
 * [Nimitz尼米兹第四代苹果macbook专用USB外置吸入式光驱盒（银色）](http://e22a.com/h.ZmatnA?cv=AAHOBGsL&sm=6fdd02)
+* 光驱盒装上后无法退片，原因是因为放不平，所以我这边做了点小加工。就可以正常使用。
+<img src="images/IMG_0443.JPG" width="300px" alt="" />
+
 
 <a name="拆装ssd"></a>
 ## 拆装ssd
